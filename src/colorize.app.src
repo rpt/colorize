@@ -1,0 +1,3 @@
+{application, colorize,
+ [{description, "Colorize your output!"},
+  {vsn, "0.1.0"}]}.
